@@ -14,17 +14,14 @@ Copyright © 2008-2020 The OWASP Foundation. This document is released under the
 
 ## Project Leads
 
-
-<table border="0">
+<html><table border="0">
  <tr><td>Andrew van der Stock</td><td>Daniel Cuthbert</td><td>Jim Manico</td></tr>
  <tr><td>Josh C Grossman</td><td>Mark Burnett</td><td></td></tr>
-</table
-  
+</table</html>
 
 ## Major Contributors
 
-
-<table border="0">
+<html><table border="0">
  <tr>
     <td>Abhay Bhargav</td>
     <td>Benedikt Bauer</td>
@@ -35,7 +32,7 @@ Copyright © 2008-2020 The OWASP Foundation. This document is released under the
     <td>Ron Perris</td>
     <td>Tonimir Kisasondi</td>
   </tr>
-</table>
+</table></html>
 
 ## Other Contributors and Reviewers
 
