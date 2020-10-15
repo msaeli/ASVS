@@ -14,14 +14,25 @@ Copyright © 2008-2020 The OWASP Foundation. This document is released under the
 
 ## Project Leads
 
-<html><table border="0">
- <tr><td>Andrew van der Stock</td><td>Daniel Cuthbert</td><td>Jim Manico</td></tr>
- <tr><td>Josh C Grossman</td><td>Mark Burnett</td><td></td></tr>
-</table</html>
+<html>
+ <table>
+  <tr>
+    <td>Andrew van der Stock</td>
+    <td>Daniel Cuthbert</td>
+    <td>Jim Manico</td>
+  </tr>
+  <tr>
+    <td>Josh C Grossman</td>
+    <td>Mark Burnett</td>
+    <td></td>
+  </tr>
+ </table>
+</html>
 
 ## Major Contributors
 
-<html><table border="0">
+<html>
+ <table border="0">
  <tr>
     <td>Abhay Bhargav</td>
     <td>Benedikt Bauer</td>
@@ -32,58 +43,95 @@ Copyright © 2008-2020 The OWASP Foundation. This document is released under the
     <td>Ron Perris</td>
     <td>Tonimir Kisasondi</td>
   </tr>
-</table></html>
+ </table>
+</html>
 
 ## Other Contributors and Reviewers
 
-- Aaron Guzman
-- Anthony Weems
-- Barbara Schachner 
-- Christopher Loessl 
-- Clément Notin 
-- Dan Cornell
-- Daniël Geerts
-- David Clarke 
-- David Johansson
-- David Quisenberry 
-- Erlend Oftedal
-- Fatih Ersinadim
-- Filip van Laenen 
-- Geoff Baskwill
-- Glenn ten Cate
-- Grant Ongers 
-- hello7s
-- Jacob Salassi
-- James Sulinski 
-- Jason Axley
-- Jason Morrow
-- Javier Dominguez
-- Jet Anderson 
-- Jim Newman
-- Jonathan Schnittger 
-- Joseph Kerby 
-- Kelby Ludwig
-- Lars Haulin 
-- Lewis Ardern
-- lyz-code 
-- Marc Aubry 
-- Marco Schnüriger
-- Philippe De Ryck
-- Ralph Andalis
-- Ravi Balla 
-- Rick Mitchell
-- Riotaro Okada
-- Robin Wood
-- Rogan Dawes
-- Ryan Goltry
-- Sajjad Pourali 
-- Serg Belkommen
-- Siim Puustusmaa 
-- Ståle Pettersen
-- Stuart Gunter
-- Tal Argoni
-- Tomasz Wrobel
-- Vincent De Schutter 
+<html>
+ <table>
+  <tr>
+    <td>Aaron Guzman</td>
+    <td>Anthony Weems</td>
+    <td>Barbara Schachner</td>
+  </tr>
+  <tr>
+    <td>Christopher Loessl</td>
+    <td>Clément Notin</td>
+    <td>Dan Cornell</td>
+  </tr>
+  <tr>
+    <td>Daniël Geerts</td>
+    <td>David Clarke</td>
+    <td>David Johansson</td>
+  </tr>
+  <tr>
+    <td>David Quisenberry</td>
+    <td>Erlend Oftedal</td>
+    <td>Fatih Ersinadim</td>
+  </tr>
+  <tr>
+    <td>Filip van Laenen</td>
+    <td>Geoff Baskwill</td>
+    <td>Glenn ten Cate</td>
+  </tr>
+  <tr>
+    <td>Grant Ongers</td>
+    <td>hello7s</td>
+    <td>Jacob Salassi</td>
+  </tr>
+  <tr>
+    <td>James Sulinski</td>
+    <td>Jason Axley</td>
+    <td>Jason Morrow</td>
+  </tr>
+  <tr>
+    <td>Javier Dominguez</td>
+    <td>Jet Anderson</td>
+    <td>Jim Newman</td>
+  </tr>
+  <tr>
+    <td>Jonathan Schnittger</td>
+    <td>Joseph Kerby</td>
+    <td>Kelby Ludwig</td>
+  </tr>
+  <tr>
+    <td>Lars Haulin</td>
+    <td>Lewis Ardern</td>
+    <td>lyz-code</td>
+  </tr>
+  <tr>
+    <td>Marc Aubry</td>
+    <td>Marco Schnüriger</td>
+    <td>Philippe De Ryck</td>
+  </tr>
+  <tr>
+    <td>Ralph Andalis</td>
+    <td>Ravi Balla</td>
+    <td>Rick Mitchell</td>
+  </tr>
+  <tr>
+    <td>Riotaro Okada</td>
+    <td>Robin Wood</td>
+    <td>Rogan Dawes</td>
+  </tr>
+  <tr>
+    <td>Ryan Goltry</td>
+    <td>Sajjad Pourali</td>
+    <td>Serg Belkommen</td>
+  </tr>
+  <tr>
+    <td>Siim Puustusmaa</td>
+    <td>Ståle Pettersen</td>
+    <td>Stuart Gunter</td>
+  </tr>
+  <tr>
+    <td>Tal Argoni</td>
+    <td>Tomasz Wrobel</td>
+    <td>Vincent De Schutter</td>
+  </tr>
+ </table>
+</html>
 
 The Application Security Verification Standard is built upon the shoulders of those involved from ASVS 1.0 in 2008 to 3.0 in 2016. Much of the structure and verification items that are still in the ASVS today were originally written by Mike Boberski, Jeff Williams and Dave Wichers, but there are many more contributors. Thank you to all those previously involved. For a comprehensive list of all those who have contributed to earlier versions, please consult each prior version.
 
